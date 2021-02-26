@@ -1,2 +1,0 @@
-This is currently #3 on my to-do list of tasks.
-I will update this file at a later date, ETA is late March 2021.
